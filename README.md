@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **frontend and Backend Projects**
 
-- 🌱 I’m currently learning **ReactJS and OpenCV**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **web development**
 

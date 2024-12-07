@@ -61,3 +61,5 @@
 **2149-SRUTHI-S/2149-SRUTHI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)

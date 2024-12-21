@@ -52,7 +52,7 @@
 <br><br><p></p>
 </center>
 
-
+![LakshmikanthanC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshmikanthanC&show_icons=true&theme=radical)
 
 
 

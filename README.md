@@ -4,7 +4,7 @@
 <br><br><p></p>
 
 
--  Portfolio => LakshmikanthanC.github.io
+-<a href="https://lakshmikanthanc.github.io/Portfolio/">Portfiolo</a>
 
 - 🔭 I’m currently working on **frontend and Backend Projects**
 

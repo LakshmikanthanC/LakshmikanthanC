@@ -57,8 +57,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=LakshmikanthanC&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshmikantha_2003?theme=dark&font=Hanuman&ext=contest)
 
 </details>

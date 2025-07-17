@@ -56,7 +56,7 @@
 ![LakshmikanthanC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshmikanthanC&show_icons=true&theme=radical)
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmikanthanC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshmikantha_2003?theme=dark&font=Hanuman&ext=contest)
 

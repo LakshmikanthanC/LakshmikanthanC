@@ -22,13 +22,13 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: LakshmikanthanC #${{ github.repository_owner }}
-          background_color: "#0d1117"      # GitHub dark mode background
-          grid_color: "#161b22"            # Slightly lighter for contrast
-          pacman_color: "#facc15"          # Bright yellow
-          ghost_color: "#f472b6"           # Pink ghost
-          dot_color: "#ffffff"             # White dots
-          eyes_color: "#000000"            # Black eye centers
-          eye_background_color: "#ffffff"
+          # background_color: "#0d1117"      # GitHub dark mode background
+          # grid_color: "#161b22"            # Slightly lighter for contrast
+          # pacman_color: "#facc15"          # Bright yellow
+          # ghost_color: "#f472b6"           # Pink ghost
+          # dot_color: "#ffffff"             # White dots
+          # eyes_color: "#000000"            # Black eye centers
+          # eye_background_color: "#ffffff"
 
 
       - name: push pacman-contribution-graph.svg to the output branch

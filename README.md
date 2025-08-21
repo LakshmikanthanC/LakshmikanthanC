@@ -59,8 +59,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmikanthanC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%" />
 </div>
 
+<details>
+  <summary>📊 Show LeetCode Stats</summary>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshmikantha_2003?theme=dark&font=Hanuman&ext=contest)
+  <br>
+
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshmikantha_2003?theme=dark&font=Hanuman&ext=contest)](https://leetcode.com/u/Lakshmikantha_2003/)
+
+</details>
+
+
 
 </details>
 

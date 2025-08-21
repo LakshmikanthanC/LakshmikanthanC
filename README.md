@@ -12,7 +12,8 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **geelakshmi2003@gmail.com**
+- 📫 How to reach me     [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:geelakshmi2003@gmail.com)
+
 
   <br>
 
